@@ -5,3 +5,4 @@ yell = (name) ->
   console.log 'Hello, ' + name + '!'
 
 yell 'blue'
+yell 'red'
