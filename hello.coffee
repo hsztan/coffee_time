@@ -6,3 +6,8 @@ yell = (name) ->
 
 yell 'blue'
 yell 'red'
+
+eat = ->
+  console.log 'I am eating'
+
+eat()
